@@ -1,5 +1,7 @@
 {
   "name": "ng-geomaps-leaflet",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
